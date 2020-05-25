@@ -7,3 +7,4 @@ jupyter
 jupyterlab
 tensorflow
 gensim
+pyyaml
